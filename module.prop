@@ -1,0 +1,6 @@
+id=frida-install
+name=frida server install
+version=v0.0.1
+versionCode=1
+author=Mainli
+description=用于安装frida-server-16.0.11-android-arm64到环境变量
