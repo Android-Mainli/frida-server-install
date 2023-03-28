@@ -3,4 +3,4 @@ name=frida server install
 version=v0.0.1
 versionCode=1
 author=Mainli
-description=用于安装多版本frida-server到环境变量&证书安装与移动
+description=用于安装多版本frida-server到环境变量&证书安装与移动&其他辅助frida的文件到系统中

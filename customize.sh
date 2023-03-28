@@ -9,6 +9,6 @@ set_perm_recursive $MODPATH/system/xbin 0 0 0755 0755
 # 创建证书目录,并添加证书挪动脚本
 mkdir -p $MODPATH/system/etc/security/cacerts
 set_perm $MODPATH/post-fs-data.sh 0 0 0755
-ls -lR $MODPATH
+ls -alR $MODPATH
 
 ui_print "安装完成"
