@@ -5,3 +5,5 @@
   - objection最新版是[1.11.0 2021年4月6日](https://github.com/sensepost/objection/releases/tag/1.11.0)
   - frida-tools==9.2.2
 - 移动证书功能
+
+> 如果安装不上建议安装FoxMMM-v1.1.0进行安装 下载地址：[github直接下载](https://raw.githubusercontent.com/mainlxl/Resource/main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk)、[jsdelivr](https://cdn.jsdelivr.net/gh/mainlxl/Resource@main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk) 、[cloudflare](https://gh.xdfg.cc/https://raw.githubusercontent.com/mainlxl/Resource/main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk)
