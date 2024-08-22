@@ -12,4 +12,4 @@
 >
 > 打包zip时不要套一个文件夹 否则unzip失败
 >
-> 如果安装不上建议安装FoxMMM-v1.1.0进行安装 下载地址：[github直接下载](https://raw.githubusercontent.com/mainlxl/Resource/main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk)、[jsdelivr](https://cdn.jsdelivr.net/gh/mainlxl/Resource@main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk) 、[cloudflare](
+> 如果安装不上建议安装FoxMMM-v1.1.0进行安装 下载地址：[github直接下载](https://raw.githubusercontent.com/mainlxl/Resource/main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk)、[jsdelivr](https://cdn.jsdelivr.net/gh/mainlxl/Resource@main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk) 、[cloudflare](https://gh.xdfg.cc/https://raw.githubusercontent.com/mainlxl/Resource/main/Android/Magisk/FoxMMM-v1.1.0-default-arm64-v8a-release.apk)
